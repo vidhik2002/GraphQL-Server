@@ -1,6 +1,6 @@
 # GraphQL-Server
 #### Pre-requisites
-- [GrapgQl](https://graphql.org/learn/)
+- [GraphQl](https://graphql.org/learn/)
 - [Babel](https://www.npmjs.com/package/babel-preset-stage-3)
 - [npm](https://www.npmjs.com/)
 
