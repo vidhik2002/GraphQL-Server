@@ -1,4 +1,5 @@
 # GraphQL-Server
+A Graph Ql server made with Redis, Node js, and Graph Ql !
 #### Pre-requisites
 - [GraphQl](https://graphql.org/learn/)
 - [Babel](https://www.npmjs.com/package/babel-preset-stage-3)
