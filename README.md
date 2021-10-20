@@ -18,7 +18,8 @@ git clone https://github.com/vidhik2002/GraphQL-Server.git
 ```sh
 cd GraphQL-Server
 ```
-4. Run the command
+4. Run the commands
 ```sh
+npm i
 npm start
 ```
