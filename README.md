@@ -18,7 +18,11 @@ git clone https://github.com/vidhik2002/GraphQL-Server.git
 ```sh
 cd GraphQL-Server
 ```
-4. Run the commands
+4. Make a .env file
+```sh
+PORT=<your_port>
+```
+5. Run the commands
 ```sh
 npm i
 npm start
